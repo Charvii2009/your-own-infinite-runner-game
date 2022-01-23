@@ -1,1 +1,1 @@
-# your-own-infinite-runner-game
+# C19-Capstone-project
